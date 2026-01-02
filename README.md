@@ -22,3 +22,7 @@ Task 4:
 Created dynamic line chart (27 months, up to Mar-2026)
 using named range 'RevList'.
 ![Dynamic Chart](day2/Task%204/Dynamic-chart.png)
+
+Task 5:
+The most expensive region in the model: East (avg price 3849,6 CAD, share is 9%)
+![Dax Model](dax_model.png)
