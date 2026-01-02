@@ -1,4 +1,5 @@
 product_id,product_name,category,price,stock_qty
+1,Product_0000,A,0,1
 2,Product_0001,B,12.5,2
 3,Product_0002,C,15,3
 4,Product_0003,D,17.5,4
@@ -15,6 +16,7 @@ product_id,product_name,category,price,stock_qty
 15,Product_0014,C,45,15
 16,Product_0015,D,47.5,16
 17,Product_0016,A,50,17
+18,Product_0017,B,0,18
 19,Product_0018,C,55,19
 20,Product_0019,D,57.5,20
 21,Product_0020,A,60,21
@@ -25,10 +27,12 @@ product_id,product_name,category,price,stock_qty
 27,Product_0026,C,75,27
 28,Product_0027,D,77.5,28
 29,Product_0028,A,80,29
+30,Product_0029,B,0,30
 31,Product_0030,C,85,31
 32,Product_0031,D,87.5,32
 33,Product_0032,A,90,33
 34,Product_0033,B,92.5,34
+35,Product_0034,C,0,35
 36,Product_0035,D,97.5,36
 37,Product_0036,A,100,37
 38,Product_0037,B,102.5,38
@@ -44,12 +48,14 @@ product_id,product_name,category,price,stock_qty
 49,Product_0048,A,130,49
 50,Product_0049,B,132.5,50
 51,Product_0050,C,10,51
+52,Product_0051,D,0,52
 53,Product_0052,A,15,53
 54,Product_0053,B,17.5,54
 55,Product_0054,C,20,55
 56,Product_0055,D,22.5,56
 57,Product_0056,A,25,57
 58,Product_0057,B,27.5,58
+59,Product_0058,C,0,59
 60,Product_0059,D,32.5,60
 61,Product_0060,A,35,61
 62,Product_0061,B,37.5,62
@@ -59,6 +65,7 @@ product_id,product_name,category,price,stock_qty
 66,Product_0065,B,47.5,66
 67,Product_0066,C,50,67
 68,Product_0067,D,52.5,68
+69,Product_0068,A,0,69
 71,Product_0070,C,60,71
 72,Product_0071,D,62.5,72
 73,Product_0072,A,65,73
@@ -74,7 +81,9 @@ product_id,product_name,category,price,stock_qty
 83,Product_0082,C,90,83
 84,Product_0083,D,92.5,84
 85,Product_0084,A,95,85
+86,Product_0085,B,0,86
 87,Product_0086,C,100,87
+88,Product_0087,D,0,88
 89,Product_0088,A,105,89
 90,Product_0089,B,107.5,90
 91,Product_0090,C,110,91
@@ -88,6 +97,7 @@ product_id,product_name,category,price,stock_qty
 100,Product_0099,D,132.5,100
 101,Product_0100,A,10,1
 102,Product_0101,B,12.5,2
+103,Product_0102,C,0,3
 104,Product_0103,D,17.5,4
 105,Product_0104,A,20,5
 106,Product_0105,B,22.5,6
@@ -100,8 +110,10 @@ product_id,product_name,category,price,stock_qty
 113,Product_0112,A,40,13
 114,Product_0113,B,42.5,14
 115,Product_0114,C,45,15
+117,Product_0116,A,0,17
 118,Product_0117,B,52.5,18
 119,Product_0118,C,55,19
+120,Product_0119,D,0,20
 121,Product_0120,A,60,21
 122,Product_0121,B,62.5,22
 123,Product_0122,C,65,23
@@ -118,6 +130,7 @@ product_id,product_name,category,price,stock_qty
 134,Product_0133,B,92.5,34
 135,Product_0134,C,95,35
 136,Product_0135,D,97.5,36
+137,Product_0136,A,0,37
 138,Product_0137,B,102.5,38
 140,Product_0139,D,107.5,40
 141,Product_0140,A,110,41
@@ -125,6 +138,7 @@ product_id,product_name,category,price,stock_qty
 143,Product_0142,C,115,43
 144,Product_0143,D,117.5,44
 145,Product_0144,A,120,45
+146,Product_0145,B,0,46
 147,Product_0146,C,125,47
 148,Product_0147,D,127.5,48
 149,Product_0148,A,130,49
@@ -132,6 +146,7 @@ product_id,product_name,category,price,stock_qty
 151,Product_0150,C,10,51
 152,Product_0151,D,12.5,52
 153,Product_0152,A,15,53
+154,Product_0153,B,0,54
 155,Product_0154,C,20,55
 156,Product_0155,D,22.5,56
 157,Product_0156,A,25,57
@@ -147,9 +162,11 @@ product_id,product_name,category,price,stock_qty
 168,Product_0167,D,52.5,68
 169,Product_0168,A,55,69
 170,Product_0169,B,57.5,70
+171,Product_0170,C,0,71
 172,Product_0171,D,62.5,72
 173,Product_0172,A,65,73
 174,Product_0173,B,67.5,74
+175,Product_0174,C,0,75
 176,Product_0175,D,72.5,76
 177,Product_0176,A,75,77
 178,Product_0177,B,77.5,78
@@ -161,6 +178,7 @@ product_id,product_name,category,price,stock_qty
 184,Product_0183,D,92.5,84
 186,Product_0185,B,97.5,86
 187,Product_0186,C,100,87
+188,Product_0187,D,0,88
 189,Product_0188,A,105,89
 190,Product_0189,B,107.5,90
 191,Product_0190,C,110,91
@@ -176,6 +194,8 @@ product_id,product_name,category,price,stock_qty
 201,Product_0200,A,10,1
 202,Product_0201,B,12.5,2
 203,Product_0202,C,15,3
+204,Product_0203,D,0,4
+205,Product_0204,A,0,5
 206,Product_0205,B,22.5,6
 207,Product_0206,C,25,7
 209,Product_0208,A,30,9
@@ -191,6 +211,7 @@ product_id,product_name,category,price,stock_qty
 219,Product_0218,C,55,19
 220,Product_0219,D,57.5,20
 221,Product_0220,A,60,21
+222,Product_0221,B,0,22
 223,Product_0222,C,65,23
 224,Product_0223,D,67.5,24
 225,Product_0224,A,70,25
@@ -200,11 +221,13 @@ product_id,product_name,category,price,stock_qty
 229,Product_0228,A,80,29
 230,Product_0229,B,82.5,30
 232,Product_0231,D,87.5,32
+233,Product_0232,A,0,33
 234,Product_0233,B,92.5,34
 235,Product_0234,C,95,35
 236,Product_0235,D,97.5,36
 237,Product_0236,A,100,37
 238,Product_0237,B,102.5,38
+239,Product_0238,C,0,39
 240,Product_0239,D,107.5,40
 241,Product_0240,A,110,41
 242,Product_0241,B,112.5,42
@@ -220,11 +243,13 @@ product_id,product_name,category,price,stock_qty
 252,Product_0251,D,12.5,52
 253,Product_0252,A,15,53
 255,Product_0254,C,20,55
+256,Product_0255,D,0,56
 257,Product_0256,A,25,57
 258,Product_0257,B,27.5,58
 259,Product_0258,C,30,59
 260,Product_0259,D,32.5,60
 261,Product_0260,A,35,61
+262,Product_0261,B,0,62
 263,Product_0262,C,40,63
 264,Product_0263,D,42.5,64
 265,Product_0264,A,45,65
@@ -235,6 +260,7 @@ product_id,product_name,category,price,stock_qty
 270,Product_0269,B,57.5,70
 271,Product_0270,C,60,71
 272,Product_0271,D,62.5,72
+273,Product_0272,A,0,73
 274,Product_0273,B,67.5,74
 275,Product_0274,C,70,75
 276,Product_0275,D,72.5,76
@@ -250,6 +276,8 @@ product_id,product_name,category,price,stock_qty
 287,Product_0286,C,100,87
 288,Product_0287,D,102.5,88
 289,Product_0288,A,105,89
+290,Product_0289,B,0,90
+291,Product_0290,C,0,91
 292,Product_0291,D,112.5,92
 293,Product_0292,A,115,93
 294,Product_0293,B,117.5,94
@@ -264,6 +292,7 @@ product_id,product_name,category,price,stock_qty
 304,Product_0303,D,17.5,4
 305,Product_0304,A,20,5
 306,Product_0305,B,22.5,6
+307,Product_0306,C,0,7
 308,Product_0307,D,27.5,8
 309,Product_0308,A,30,9
 310,Product_0309,B,32.5,10
@@ -276,8 +305,10 @@ product_id,product_name,category,price,stock_qty
 317,Product_0316,A,50,17
 318,Product_0317,B,52.5,18
 319,Product_0318,C,55,19
+320,Product_0319,D,0,20
 321,Product_0320,A,60,21
 322,Product_0321,B,62.5,22
+324,Product_0323,D,0,24
 325,Product_0324,A,70,25
 326,Product_0325,B,72.5,26
 327,Product_0326,C,75,27
@@ -294,12 +325,14 @@ product_id,product_name,category,price,stock_qty
 338,Product_0337,B,102.5,38
 339,Product_0338,C,105,39
 340,Product_0339,D,107.5,40
+341,Product_0340,A,0,41
 342,Product_0341,B,112.5,42
 343,Product_0342,C,115,43
 344,Product_0343,D,117.5,44
 345,Product_0344,A,120,45
 347,Product_0346,C,125,47
 348,Product_0347,D,127.5,48
+349,Product_0348,A,0,49
 350,Product_0349,B,132.5,50
 351,Product_0350,C,10,51
 352,Product_0351,D,12.5,52
@@ -308,6 +341,7 @@ product_id,product_name,category,price,stock_qty
 355,Product_0354,C,20,55
 356,Product_0355,D,22.5,56
 357,Product_0356,A,25,57
+358,Product_0357,B,0,58
 359,Product_0358,C,30,59
 360,Product_0359,D,32.5,60
 361,Product_0360,A,35,61
@@ -323,8 +357,10 @@ product_id,product_name,category,price,stock_qty
 372,Product_0371,D,62.5,72
 373,Product_0372,A,65,73
 374,Product_0373,B,67.5,74
+375,Product_0374,C,0,75
 376,Product_0375,D,72.5,76
 377,Product_0376,A,75,77
+378,Product_0377,B,0,78
 379,Product_0378,C,80,79
 380,Product_0379,D,82.5,80
 381,Product_0380,A,85,81
@@ -338,6 +374,7 @@ product_id,product_name,category,price,stock_qty
 389,Product_0388,A,105,89
 390,Product_0389,B,107.5,90
 391,Product_0390,C,110,91
+392,Product_0391,D,0,92
 393,Product_0392,A,115,93
 394,Product_0393,B,117.5,94
 395,Product_0394,C,120,95
@@ -352,7 +389,9 @@ product_id,product_name,category,price,stock_qty
 404,Product_0403,D,17.5,4
 405,Product_0404,A,20,5
 406,Product_0405,B,22.5,6
+407,Product_0406,C,0,7
 408,Product_0407,D,27.5,8
+409,Product_0408,A,0,9
 410,Product_0409,B,32.5,10
 411,Product_0410,C,35,11
 412,Product_0411,D,37.5,12
@@ -368,6 +407,7 @@ product_id,product_name,category,price,stock_qty
 423,Product_0422,C,65,23
 424,Product_0423,D,67.5,24
 425,Product_0424,A,70,25
+426,Product_0425,B,0,26
 427,Product_0426,C,75,27
 428,Product_0427,D,77.5,28
 429,Product_0428,A,80,29
@@ -377,11 +417,13 @@ product_id,product_name,category,price,stock_qty
 433,Product_0432,A,90,33
 434,Product_0433,B,92.5,34
 435,Product_0434,C,95,35
+436,Product_0435,D,0,36
 437,Product_0436,A,100,37
 439,Product_0438,C,105,39
 440,Product_0439,D,107.5,40
 441,Product_0440,A,110,41
 442,Product_0441,B,112.5,42
+443,Product_0442,C,0,43
 444,Product_0443,D,117.5,44
 445,Product_0444,A,120,45
 446,Product_0445,B,122.5,46
@@ -398,9 +440,11 @@ product_id,product_name,category,price,stock_qty
 457,Product_0456,A,25,57
 458,Product_0457,B,27.5,58
 459,Product_0458,C,30,59
+460,Product_0459,D,0,60
 462,Product_0461,B,37.5,62
 463,Product_0462,C,40,63
 464,Product_0463,D,42.5,64
+465,Product_0464,A,0,65
 466,Product_0465,B,47.5,66
 467,Product_0466,C,50,67
 468,Product_0467,D,52.5,68
@@ -412,6 +456,7 @@ product_id,product_name,category,price,stock_qty
 474,Product_0473,B,67.5,74
 475,Product_0474,C,70,75
 476,Product_0475,D,72.5,76
+477,Product_0476,A,0,77
 478,Product_0477,B,77.5,78
 479,Product_0478,C,80,79
 480,Product_0479,D,82.5,80
@@ -427,6 +472,7 @@ product_id,product_name,category,price,stock_qty
 491,Product_0490,C,110,91
 492,Product_0491,D,112.5,92
 493,Product_0492,A,115,93
+494,Product_0493,B,0,94
 495,Product_0494,C,120,95
 496,Product_0495,D,122.5,96
 497,Product_0496,A,125,97
@@ -442,6 +488,7 @@ product_id,product_name,category,price,stock_qty
 508,Product_0507,D,27.5,8
 509,Product_0508,A,30,9
 510,Product_0509,B,32.5,10
+511,Product_0510,C,0,11
 512,Product_0511,D,37.5,12
 513,Product_0512,A,40,13
 514,Product_0513,B,42.5,14
@@ -453,10 +500,12 @@ product_id,product_name,category,price,stock_qty
 520,Product_0519,D,57.5,20
 521,Product_0520,A,60,21
 522,Product_0521,B,62.5,22
+523,Product_0522,C,0,23
 524,Product_0523,D,67.5,24
 525,Product_0524,A,70,25
 526,Product_0525,B,72.5,26
 527,Product_0526,C,75,27
+528,Product_0527,D,0,28
 529,Product_0528,A,80,29
 531,Product_0530,C,85,31
 532,Product_0531,D,87.5,32
@@ -472,12 +521,14 @@ product_id,product_name,category,price,stock_qty
 542,Product_0541,B,112.5,42
 543,Product_0542,C,115,43
 544,Product_0543,D,117.5,44
+545,Product_0544,A,0,45
 546,Product_0545,B,122.5,46
 547,Product_0546,C,125,47
 548,Product_0547,D,127.5,48
 549,Product_0548,A,130,49
 550,Product_0549,B,132.5,50
 551,Product_0550,C,10,51
+552,Product_0551,D,0,52
 554,Product_0553,B,17.5,54
 555,Product_0554,C,20,55
 556,Product_0555,D,22.5,56
@@ -486,6 +537,7 @@ product_id,product_name,category,price,stock_qty
 559,Product_0558,C,30,59
 560,Product_0559,D,32.5,60
 561,Product_0560,A,35,61
+562,Product_0561,B,0,62
 563,Product_0562,C,40,63
 564,Product_0563,D,42.5,64
 565,Product_0564,A,45,65
@@ -501,7 +553,9 @@ product_id,product_name,category,price,stock_qty
 575,Product_0574,C,70,75
 577,Product_0576,A,75,77
 578,Product_0577,B,77.5,78
+579,Product_0578,C,0,79
 580,Product_0579,D,82.5,80
+581,Product_0580,A,0,81
 582,Product_0581,B,87.5,82
 583,Product_0582,C,90,83
 584,Product_0583,D,92.5,84
@@ -516,6 +570,7 @@ product_id,product_name,category,price,stock_qty
 593,Product_0592,A,115,93
 594,Product_0593,B,117.5,94
 595,Product_0594,C,120,95
+596,Product_0595,D,0,96
 597,Product_0596,A,125,97
 598,Product_0597,B,127.5,98
 600,Product_0599,D,132.5,100
@@ -528,8 +583,10 @@ product_id,product_name,category,price,stock_qty
 607,Product_0606,C,25,7
 608,Product_0607,D,27.5,8
 609,Product_0608,A,30,9
+610,Product_0609,B,0,10
 611,Product_0610,C,35,11
 612,Product_0611,D,37.5,12
+613,Product_0612,A,0,13
 614,Product_0613,B,42.5,14
 615,Product_0614,C,45,15
 616,Product_0615,D,47.5,16
@@ -545,6 +602,7 @@ product_id,product_name,category,price,stock_qty
 627,Product_0626,C,75,27
 628,Product_0627,D,77.5,28
 629,Product_0628,A,80,29
+630,Product_0629,B,0,30
 631,Product_0630,C,85,31
 632,Product_0631,D,87.5,32
 633,Product_0632,A,90,33
@@ -553,12 +611,14 @@ product_id,product_name,category,price,stock_qty
 636,Product_0635,D,97.5,36
 637,Product_0636,A,100,37
 638,Product_0637,B,102.5,38
+639,Product_0638,C,0,39
 640,Product_0639,D,107.5,40
 641,Product_0640,A,110,41
 642,Product_0641,B,112.5,42
 643,Product_0642,C,115,43
 644,Product_0643,D,117.5,44
 646,Product_0645,B,122.5,46
+647,Product_0646,C,0,47
 648,Product_0647,D,127.5,48
 649,Product_0648,A,130,49
 650,Product_0649,B,132.5,50
@@ -575,9 +635,11 @@ product_id,product_name,category,price,stock_qty
 661,Product_0660,A,35,61
 662,Product_0661,B,37.5,62
 663,Product_0662,C,40,63
+664,Product_0663,D,0,64
 665,Product_0664,A,45,65
 666,Product_0665,B,47.5,66
 667,Product_0666,C,50,67
+668,Product_0667,D,0,68
 669,Product_0668,A,55,69
 670,Product_0669,B,57.5,70
 671,Product_0670,C,60,71
@@ -590,6 +652,7 @@ product_id,product_name,category,price,stock_qty
 678,Product_0677,B,77.5,78
 679,Product_0678,C,80,79
 680,Product_0679,D,82.5,80
+681,Product_0680,A,0,81
 682,Product_0681,B,87.5,82
 683,Product_0682,C,90,83
 684,Product_0683,D,92.5,84
@@ -604,6 +667,8 @@ product_id,product_name,category,price,stock_qty
 694,Product_0693,B,117.5,94
 695,Product_0694,C,120,95
 696,Product_0695,D,122.5,96
+697,Product_0696,A,0,97
+698,Product_0697,B,0,98
 699,Product_0698,C,130,99
 700,Product_0699,D,132.5,100
 701,Product_0700,A,10,1
@@ -619,6 +684,7 @@ product_id,product_name,category,price,stock_qty
 711,Product_0710,C,35,11
 712,Product_0711,D,37.5,12
 713,Product_0712,A,40,13
+715,Product_0714,C,0,15
 716,Product_0715,D,47.5,16
 717,Product_0716,A,50,17
 718,Product_0717,B,52.5,18
@@ -629,11 +695,13 @@ product_id,product_name,category,price,stock_qty
 723,Product_0722,C,65,23
 724,Product_0723,D,67.5,24
 725,Product_0724,A,70,25
+726,Product_0725,B,0,26
 727,Product_0726,C,75,27
 728,Product_0727,D,77.5,28
 729,Product_0728,A,80,29
 730,Product_0729,B,82.5,30
 731,Product_0730,C,85,31
+732,Product_0731,D,0,32
 733,Product_0732,A,90,33
 734,Product_0733,B,92.5,34
 735,Product_0734,C,95,35
@@ -649,11 +717,13 @@ product_id,product_name,category,price,stock_qty
 746,Product_0745,B,122.5,46
 747,Product_0746,C,125,47
 748,Product_0747,D,127.5,48
+749,Product_0748,A,0,49
 750,Product_0749,B,132.5,50
 751,Product_0750,C,10,51
 752,Product_0751,D,12.5,52
 753,Product_0752,A,15,53
 754,Product_0753,B,17.5,54
+755,Product_0754,C,0,55
 756,Product_0755,D,22.5,56
 757,Product_0756,A,25,57
 758,Product_0757,B,27.5,58
@@ -663,6 +733,7 @@ product_id,product_name,category,price,stock_qty
 763,Product_0762,C,40,63
 764,Product_0763,D,42.5,64
 765,Product_0764,A,45,65
+766,Product_0765,B,0,66
 767,Product_0766,C,50,67
 768,Product_0767,D,52.5,68
 769,Product_0768,A,55,69
@@ -679,6 +750,8 @@ product_id,product_name,category,price,stock_qty
 780,Product_0779,D,82.5,80
 781,Product_0780,A,85,81
 782,Product_0781,B,87.5,82
+783,Product_0782,C,0,83
+784,Product_0783,D,0,84
 785,Product_0784,A,95,85
 786,Product_0785,B,97.5,86
 787,Product_0786,C,100,87
@@ -694,6 +767,7 @@ product_id,product_name,category,price,stock_qty
 797,Product_0796,A,125,97
 798,Product_0797,B,127.5,98
 799,Product_0798,C,130,99
+800,Product_0799,D,0,100
 801,Product_0800,A,10,1
 802,Product_0801,B,12.5,2
 803,Product_0802,C,15,3
@@ -705,9 +779,11 @@ product_id,product_name,category,price,stock_qty
 810,Product_0809,B,32.5,10
 811,Product_0810,C,35,11
 812,Product_0811,D,37.5,12
+813,Product_0812,A,0,13
 814,Product_0813,B,42.5,14
 815,Product_0814,C,45,15
 816,Product_0815,D,47.5,16
+817,Product_0816,A,0,17
 818,Product_0817,B,52.5,18
 819,Product_0818,C,55,19
 820,Product_0819,D,57.5,20
@@ -723,6 +799,7 @@ product_id,product_name,category,price,stock_qty
 831,Product_0830,C,85,31
 832,Product_0831,D,87.5,32
 833,Product_0832,A,90,33
+834,Product_0833,B,0,34
 835,Product_0834,C,95,35
 836,Product_0835,D,97.5,36
 837,Product_0836,A,100,37
@@ -730,6 +807,7 @@ product_id,product_name,category,price,stock_qty
 839,Product_0838,C,105,39
 840,Product_0839,D,107.5,40
 841,Product_0840,A,110,41
+842,Product_0841,B,0,42
 843,Product_0842,C,115,43
 844,Product_0843,D,117.5,44
 845,Product_0844,A,120,45
@@ -738,6 +816,7 @@ product_id,product_name,category,price,stock_qty
 848,Product_0847,D,127.5,48
 849,Product_0848,A,130,49
 850,Product_0849,B,132.5,50
+851,Product_0850,C,0,51
 853,Product_0852,A,15,53
 854,Product_0853,B,17.5,54
 855,Product_0854,C,20,55
@@ -753,8 +832,10 @@ product_id,product_name,category,price,stock_qty
 865,Product_0864,A,45,65
 866,Product_0865,B,47.5,66
 867,Product_0866,C,50,67
+868,Product_0867,D,0,68
 869,Product_0868,A,55,69
 870,Product_0869,B,57.5,70
+871,Product_0870,C,0,71
 872,Product_0871,D,62.5,72
 873,Product_0872,A,65,73
 874,Product_0873,B,67.5,74
@@ -767,6 +848,7 @@ product_id,product_name,category,price,stock_qty
 882,Product_0881,B,87.5,82
 883,Product_0882,C,90,83
 884,Product_0883,D,92.5,84
+885,Product_0884,A,0,85
 886,Product_0885,B,97.5,86
 887,Product_0886,C,100,87
 888,Product_0887,D,102.5,88
@@ -780,7 +862,9 @@ product_id,product_name,category,price,stock_qty
 896,Product_0895,D,122.5,96
 897,Product_0896,A,125,97
 899,Product_0898,C,130,99
+900,Product_0899,D,0,100
 901,Product_0900,A,10,1
+902,Product_0901,B,0,2
 903,Product_0902,C,15,3
 904,Product_0903,D,17.5,4
 905,Product_0904,A,20,5
@@ -797,6 +881,7 @@ product_id,product_name,category,price,stock_qty
 916,Product_0915,D,47.5,16
 917,Product_0916,A,50,17
 918,Product_0917,B,52.5,18
+919,Product_0918,C,0,19
 920,Product_0919,D,57.5,20
 922,Product_0921,B,62.5,22
 923,Product_0922,C,65,23
@@ -805,12 +890,14 @@ product_id,product_name,category,price,stock_qty
 926,Product_0925,B,72.5,26
 927,Product_0926,C,75,27
 928,Product_0927,D,77.5,28
+929,Product_0928,A,0,29
 930,Product_0929,B,82.5,30
 931,Product_0930,C,85,31
 932,Product_0931,D,87.5,32
 933,Product_0932,A,90,33
 934,Product_0933,B,92.5,34
 935,Product_0934,C,95,35
+936,Product_0935,D,0,36
 937,Product_0936,A,100,37
 938,Product_0937,B,102.5,38
 939,Product_0938,C,105,39
@@ -826,10 +913,12 @@ product_id,product_name,category,price,stock_qty
 950,Product_0949,B,132.5,50
 951,Product_0950,C,10,51
 952,Product_0951,D,12.5,52
+953,Product_0952,A,0,53
 954,Product_0953,B,17.5,54
 955,Product_0954,C,20,55
 956,Product_0955,D,22.5,56
 957,Product_0956,A,25,57
+958,Product_0957,B,0,58
 959,Product_0958,C,30,59
 960,Product_0959,D,32.5,60
 961,Product_0960,A,35,61
@@ -840,6 +929,7 @@ product_id,product_name,category,price,stock_qty
 966,Product_0965,B,47.5,66
 968,Product_0967,D,52.5,68
 969,Product_0968,A,55,69
+970,Product_0969,B,0,70
 971,Product_0970,C,60,71
 972,Product_0971,D,62.5,72
 973,Product_0972,A,65,73
@@ -856,6 +946,7 @@ product_id,product_name,category,price,stock_qty
 984,Product_0983,D,92.5,84
 985,Product_0984,A,95,85
 986,Product_0985,B,97.5,86
+987,Product_0986,C,0,87
 988,Product_0987,D,102.5,88
 989,Product_0988,A,105,89
 991,Product_0990,C,110,91
@@ -871,6 +962,7 @@ product_id,product_name,category,price,stock_qty
 1001,Product_1000,A,10,1
 1002,Product_1001,B,12.5,2
 1003,Product_1002,C,15,3
+1004,Product_1003,D,0,4
 1005,Product_1004,A,20,5
 1006,Product_1005,B,22.5,6
 1007,Product_1006,C,25,7
@@ -881,10 +973,12 @@ product_id,product_name,category,price,stock_qty
 1012,Product_1011,D,37.5,12
 1014,Product_1013,B,42.5,14
 1015,Product_1014,C,45,15
+1016,Product_1015,D,0,16
 1017,Product_1016,A,50,17
 1018,Product_1017,B,52.5,18
 1019,Product_1018,C,55,19
 1020,Product_1019,D,57.5,20
+1021,Product_1020,A,0,21
 1022,Product_1021,B,62.5,22
 1023,Product_1022,C,65,23
 1024,Product_1023,D,67.5,24
@@ -900,12 +994,14 @@ product_id,product_name,category,price,stock_qty
 1034,Product_1033,B,92.5,34
 1035,Product_1034,C,95,35
 1037,Product_1036,A,100,37
+1038,Product_1037,B,0,38
 1039,Product_1038,C,105,39
 1040,Product_1039,D,107.5,40
 1041,Product_1040,A,110,41
 1042,Product_1041,B,112.5,42
 1043,Product_1042,C,115,43
 1044,Product_1043,D,117.5,44
+1045,Product_1044,A,0,45
 1046,Product_1045,B,122.5,46
 1047,Product_1046,C,125,47
 1048,Product_1047,D,127.5,48
@@ -915,6 +1011,7 @@ product_id,product_name,category,price,stock_qty
 1052,Product_1051,D,12.5,52
 1053,Product_1052,A,15,53
 1054,Product_1053,B,17.5,54
+1055,Product_1054,C,0,55
 1056,Product_1055,D,22.5,56
 1057,Product_1056,A,25,57
 1058,Product_1057,B,27.5,58
@@ -930,7 +1027,9 @@ product_id,product_name,category,price,stock_qty
 1069,Product_1068,A,55,69
 1070,Product_1069,B,57.5,70
 1071,Product_1070,C,60,71
+1072,Product_1071,D,0,72
 1073,Product_1072,A,65,73
+1074,Product_1073,B,0,74
 1075,Product_1074,C,70,75
 1076,Product_1075,D,72.5,76
 1077,Product_1076,A,75,77
@@ -944,6 +1043,7 @@ product_id,product_name,category,price,stock_qty
 1086,Product_1085,B,97.5,86
 1087,Product_1086,C,100,87
 1088,Product_1087,D,102.5,88
+1089,Product_1088,A,0,89
 1090,Product_1089,B,107.5,90
 1091,Product_1090,C,110,91
 1092,Product_1091,D,112.5,92
@@ -957,7 +1057,9 @@ product_id,product_name,category,price,stock_qty
 1100,Product_1099,D,132.5,100
 1101,Product_1100,A,10,1
 1102,Product_1101,B,12.5,2
+1103,Product_1102,C,0,3
 1104,Product_1103,D,17.5,4
+1106,Product_1105,B,0,6
 1107,Product_1106,C,25,7
 1108,Product_1107,D,27.5,8
 1109,Product_1108,A,30,9
@@ -974,6 +1076,7 @@ product_id,product_name,category,price,stock_qty
 1120,Product_1119,D,57.5,20
 1121,Product_1120,A,60,21
 1122,Product_1121,B,62.5,22
+1123,Product_1122,C,0,23
 1124,Product_1123,D,67.5,24
 1125,Product_1124,A,70,25
 1126,Product_1125,B,72.5,26
@@ -981,6 +1084,7 @@ product_id,product_name,category,price,stock_qty
 1129,Product_1128,A,80,29
 1130,Product_1129,B,82.5,30
 1131,Product_1130,C,85,31
+1132,Product_1131,D,0,32
 1133,Product_1132,A,90,33
 1134,Product_1133,B,92.5,34
 1135,Product_1134,C,95,35
@@ -988,6 +1092,7 @@ product_id,product_name,category,price,stock_qty
 1137,Product_1136,A,100,37
 1138,Product_1137,B,102.5,38
 1139,Product_1138,C,105,39
+1140,Product_1139,D,0,40
 1141,Product_1140,A,110,41
 1142,Product_1141,B,112.5,42
 1143,Product_1142,C,115,43
@@ -1003,9 +1108,11 @@ product_id,product_name,category,price,stock_qty
 1154,Product_1153,B,17.5,54
 1155,Product_1154,C,20,55
 1156,Product_1155,D,22.5,56
+1157,Product_1156,A,0,57
 1158,Product_1157,B,27.5,58
 1159,Product_1158,C,30,59
 1160,Product_1159,D,32.5,60
+1161,Product_1160,A,0,61
 1162,Product_1161,B,37.5,62
 1163,Product_1162,C,40,63
 1164,Product_1163,D,42.5,64
@@ -1018,6 +1125,7 @@ product_id,product_name,category,price,stock_qty
 1171,Product_1170,C,60,71
 1172,Product_1171,D,62.5,72
 1173,Product_1172,A,65,73
+1174,Product_1173,B,0,74
 1175,Product_1174,C,70,75
 1176,Product_1175,D,72.5,76
 1177,Product_1176,A,75,77
@@ -1033,6 +1141,8 @@ product_id,product_name,category,price,stock_qty
 1187,Product_1186,C,100,87
 1188,Product_1187,D,102.5,88
 1189,Product_1188,A,105,89
+1190,Product_1189,B,0,90
+1191,Product_1190,C,0,91
 1192,Product_1191,D,112.5,92
 1193,Product_1192,A,115,93
 1194,Product_1193,B,117.5,94
@@ -1048,6 +1158,7 @@ product_id,product_name,category,price,stock_qty
 1205,Product_1204,A,20,5
 1206,Product_1205,B,22.5,6
 1207,Product_1206,C,25,7
+1208,Product_1207,D,0,8
 1209,Product_1208,A,30,9
 1210,Product_1209,B,32.5,10
 1211,Product_1210,C,35,11
@@ -1058,10 +1169,12 @@ product_id,product_name,category,price,stock_qty
 1216,Product_1215,D,47.5,16
 1217,Product_1216,A,50,17
 1218,Product_1217,B,52.5,18
+1219,Product_1218,C,0,19
 1221,Product_1220,A,60,21
 1222,Product_1221,B,62.5,22
 1223,Product_1222,C,65,23
 1224,Product_1223,D,67.5,24
+1225,Product_1224,A,0,25
 1226,Product_1225,B,72.5,26
 1227,Product_1226,C,75,27
 1228,Product_1227,D,77.5,28
@@ -1078,10 +1191,12 @@ product_id,product_name,category,price,stock_qty
 1239,Product_1238,C,105,39
 1240,Product_1239,D,107.5,40
 1241,Product_1240,A,110,41
+1242,Product_1241,B,0,42
 1244,Product_1243,D,117.5,44
 1245,Product_1244,A,120,45
 1246,Product_1245,B,122.5,46
 1247,Product_1246,C,125,47
+1248,Product_1247,D,0,48
 1249,Product_1248,A,130,49
 1250,Product_1249,B,132.5,50
 1251,Product_1250,C,10,51
@@ -1092,6 +1207,7 @@ product_id,product_name,category,price,stock_qty
 1256,Product_1255,D,22.5,56
 1257,Product_1256,A,25,57
 1258,Product_1257,B,27.5,58
+1259,Product_1258,C,0,59
 1260,Product_1259,D,32.5,60
 1261,Product_1260,A,35,61
 1262,Product_1261,B,37.5,62
@@ -1107,6 +1223,8 @@ product_id,product_name,category,price,stock_qty
 1273,Product_1272,A,65,73
 1274,Product_1273,B,67.5,74
 1275,Product_1274,C,70,75
+1276,Product_1275,D,0,76
+1277,Product_1276,A,0,77
 1278,Product_1277,B,77.5,78
 1279,Product_1278,C,80,79
 1280,Product_1279,D,82.5,80
@@ -1121,6 +1239,7 @@ product_id,product_name,category,price,stock_qty
 1290,Product_1289,B,107.5,90
 1291,Product_1290,C,110,91
 1292,Product_1291,D,112.5,92
+1293,Product_1292,A,0,93
 1294,Product_1293,B,117.5,94
 1295,Product_1294,C,120,95
 1296,Product_1295,D,122.5,96
@@ -1133,9 +1252,11 @@ product_id,product_name,category,price,stock_qty
 1303,Product_1302,C,15,3
 1304,Product_1303,D,17.5,4
 1305,Product_1304,A,20,5
+1306,Product_1305,B,0,6
 1307,Product_1306,C,25,7
 1308,Product_1307,D,27.5,8
 1309,Product_1308,A,30,9
+1310,Product_1309,B,0,10
 1311,Product_1310,C,35,11
 1313,Product_1312,A,40,13
 1314,Product_1313,B,42.5,14
@@ -1151,6 +1272,7 @@ product_id,product_name,category,price,stock_qty
 1324,Product_1323,D,67.5,24
 1325,Product_1324,A,70,25
 1326,Product_1325,B,72.5,26
+1327,Product_1326,C,0,27
 1328,Product_1327,D,77.5,28
 1329,Product_1328,A,80,29
 1330,Product_1329,B,82.5,30
@@ -1158,6 +1280,7 @@ product_id,product_name,category,price,stock_qty
 1332,Product_1331,D,87.5,32
 1333,Product_1332,A,90,33
 1334,Product_1333,B,92.5,34
+1335,Product_1334,C,0,35
 1336,Product_1335,D,97.5,36
 1337,Product_1336,A,100,37
 1338,Product_1337,B,102.5,38
@@ -1166,6 +1289,7 @@ product_id,product_name,category,price,stock_qty
 1341,Product_1340,A,110,41
 1342,Product_1341,B,112.5,42
 1343,Product_1342,C,115,43
+1344,Product_1343,D,0,44
 1345,Product_1344,A,120,45
 1346,Product_1345,B,122.5,46
 1347,Product_1346,C,125,47
@@ -1181,8 +1305,10 @@ product_id,product_name,category,price,stock_qty
 1357,Product_1356,A,25,57
 1359,Product_1358,C,30,59
 1360,Product_1359,D,32.5,60
+1361,Product_1360,A,0,61
 1362,Product_1361,B,37.5,62
 1363,Product_1362,C,40,63
+1364,Product_1363,D,0,64
 1365,Product_1364,A,45,65
 1366,Product_1365,B,47.5,66
 1367,Product_1366,C,50,67
@@ -1196,6 +1322,7 @@ product_id,product_name,category,price,stock_qty
 1375,Product_1374,C,70,75
 1376,Product_1375,D,72.5,76
 1377,Product_1376,A,75,77
+1378,Product_1377,B,0,78
 1379,Product_1378,C,80,79
 1380,Product_1379,D,82.5,80
 1382,Product_1381,B,87.5,82
@@ -1209,7 +1336,9 @@ product_id,product_name,category,price,stock_qty
 1390,Product_1389,B,107.5,90
 1391,Product_1390,C,110,91
 1392,Product_1391,D,112.5,92
+1393,Product_1392,A,0,93
 1394,Product_1393,B,117.5,94
+1395,Product_1394,C,0,95
 1396,Product_1395,D,122.5,96
 1397,Product_1396,A,125,97
 1398,Product_1397,B,127.5,98
@@ -1225,6 +1354,7 @@ product_id,product_name,category,price,stock_qty
 1409,Product_1408,A,30,9
 1410,Product_1409,B,32.5,10
 1411,Product_1410,C,35,11
+1412,Product_1411,D,0,12
 1413,Product_1412,A,40,13
 1414,Product_1413,B,42.5,14
 1415,Product_1414,C,45,15
@@ -1234,11 +1364,13 @@ product_id,product_name,category,price,stock_qty
 1419,Product_1418,C,55,19
 1420,Product_1419,D,57.5,20
 1421,Product_1420,A,60,21
+1422,Product_1421,B,0,22
 1423,Product_1422,C,65,23
 1424,Product_1423,D,67.5,24
 1425,Product_1424,A,70,25
 1426,Product_1425,B,72.5,26
 1428,Product_1427,D,77.5,28
+1429,Product_1428,A,0,29
 1430,Product_1429,B,82.5,30
 1431,Product_1430,C,85,31
 1432,Product_1431,D,87.5,32
@@ -1255,9 +1387,11 @@ product_id,product_name,category,price,stock_qty
 1443,Product_1442,C,115,43
 1444,Product_1443,D,117.5,44
 1445,Product_1444,A,120,45
+1446,Product_1445,B,0,46
 1447,Product_1446,C,125,47
 1448,Product_1447,D,127.5,48
 1449,Product_1448,A,130,49
+1451,Product_1450,C,0,51
 1452,Product_1451,D,12.5,52
 1453,Product_1452,A,15,53
 1454,Product_1453,B,17.5,54
@@ -1269,6 +1403,7 @@ product_id,product_name,category,price,stock_qty
 1460,Product_1459,D,32.5,60
 1461,Product_1460,A,35,61
 1462,Product_1461,B,37.5,62
+1463,Product_1462,C,0,63
 1464,Product_1463,D,42.5,64
 1465,Product_1464,A,45,65
 1466,Product_1465,B,47.5,66
@@ -1284,6 +1419,7 @@ product_id,product_name,category,price,stock_qty
 1477,Product_1476,A,75,77
 1478,Product_1477,B,77.5,78
 1479,Product_1478,C,80,79
+1480,Product_1479,D,0,80
 1481,Product_1480,A,85,81
 1482,Product_1481,B,87.5,82
 1483,Product_1482,C,90,83
@@ -1299,6 +1435,7 @@ product_id,product_name,category,price,stock_qty
 1493,Product_1492,A,115,93
 1494,Product_1493,B,117.5,94
 1495,Product_1494,C,120,95
+1497,Product_1496,A,0,97
 1498,Product_1497,B,127.5,98
 1499,Product_1498,C,130,99
 1500,Product_1499,D,132.5,100
@@ -1310,10 +1447,12 @@ product_id,product_name,category,price,stock_qty
 1506,Product_1505,B,22.5,6
 1507,Product_1506,C,25,7
 1508,Product_1507,D,27.5,8
+1509,Product_1508,A,0,9
 1510,Product_1509,B,32.5,10
 1511,Product_1510,C,35,11
 1512,Product_1511,D,37.5,12
 1513,Product_1512,A,40,13
+1514,Product_1513,B,0,14
 1515,Product_1514,C,45,15
 1516,Product_1515,D,47.5,16
 1517,Product_1516,A,50,17
@@ -1329,12 +1468,14 @@ product_id,product_name,category,price,stock_qty
 1528,Product_1527,D,77.5,28
 1529,Product_1528,A,80,29
 1530,Product_1529,B,82.5,30
+1531,Product_1530,C,0,31
 1532,Product_1531,D,87.5,32
 1533,Product_1532,A,90,33
 1534,Product_1533,B,92.5,34
 1535,Product_1534,C,95,35
 1536,Product_1535,D,97.5,36
 1537,Product_1536,A,100,37
+1538,Product_1537,B,0,38
 1539,Product_1538,C,105,39
 1540,Product_1539,D,107.5,40
 1541,Product_1540,A,110,41
@@ -1343,6 +1484,7 @@ product_id,product_name,category,price,stock_qty
 1545,Product_1544,A,120,45
 1546,Product_1545,B,122.5,46
 1547,Product_1546,C,125,47
+1548,Product_1547,D,0,48
 1549,Product_1548,A,130,49
 1550,Product_1549,B,132.5,50
 1551,Product_1550,C,10,51
@@ -1359,7 +1501,9 @@ product_id,product_name,category,price,stock_qty
 1562,Product_1561,B,37.5,62
 1563,Product_1562,C,40,63
 1564,Product_1563,D,42.5,64
+1565,Product_1564,A,0,65
 1566,Product_1565,B,47.5,66
+1567,Product_1566,C,0,67
 1568,Product_1567,D,52.5,68
 1569,Product_1568,A,55,69
 1570,Product_1569,B,57.5,70
@@ -1374,6 +1518,7 @@ product_id,product_name,category,price,stock_qty
 1579,Product_1578,C,80,79
 1580,Product_1579,D,82.5,80
 1581,Product_1580,A,85,81
+1582,Product_1581,B,0,82
 1583,Product_1582,C,90,83
 1584,Product_1583,D,92.5,84
 1585,Product_1584,A,95,85
@@ -1386,8 +1531,10 @@ product_id,product_name,category,price,stock_qty
 1593,Product_1592,A,115,93
 1594,Product_1593,B,117.5,94
 1595,Product_1594,C,120,95
+1596,Product_1595,D,0,96
 1597,Product_1596,A,125,97
 1598,Product_1597,B,127.5,98
+1599,Product_1598,C,0,99
 1600,Product_1599,D,132.5,100
 1601,Product_1600,A,10,1
 1602,Product_1601,B,12.5,2
@@ -1403,6 +1550,7 @@ product_id,product_name,category,price,stock_qty
 1613,Product_1612,A,40,13
 1614,Product_1613,B,42.5,14
 1615,Product_1614,C,45,15
+1616,Product_1615,D,0,16
 1617,Product_1616,A,50,17
 1618,Product_1617,B,52.5,18
 1619,Product_1618,C,55,19
@@ -1411,6 +1559,7 @@ product_id,product_name,category,price,stock_qty
 1622,Product_1621,B,62.5,22
 1623,Product_1622,C,65,23
 1624,Product_1623,D,67.5,24
+1625,Product_1624,A,0,25
 1626,Product_1625,B,72.5,26
 1627,Product_1626,C,75,27
 1628,Product_1627,D,77.5,28
@@ -1418,6 +1567,7 @@ product_id,product_name,category,price,stock_qty
 1630,Product_1629,B,82.5,30
 1631,Product_1630,C,85,31
 1632,Product_1631,D,87.5,32
+1633,Product_1632,A,0,33
 1635,Product_1634,C,95,35
 1636,Product_1635,D,97.5,36
 1637,Product_1636,A,100,37
@@ -1433,9 +1583,11 @@ product_id,product_name,category,price,stock_qty
 1647,Product_1646,C,125,47
 1648,Product_1647,D,127.5,48
 1649,Product_1648,A,130,49
+1650,Product_1649,B,0,50
 1651,Product_1650,C,10,51
 1652,Product_1651,D,12.5,52
 1653,Product_1652,A,15,53
+1654,Product_1653,B,0,54
 1655,Product_1654,C,20,55
 1656,Product_1655,D,22.5,56
 1658,Product_1657,B,27.5,58
@@ -1447,6 +1599,7 @@ product_id,product_name,category,price,stock_qty
 1664,Product_1663,D,42.5,64
 1665,Product_1664,A,45,65
 1666,Product_1665,B,47.5,66
+1667,Product_1666,C,0,67
 1668,Product_1667,D,52.5,68
 1669,Product_1668,A,55,69
 1670,Product_1669,B,57.5,70
@@ -1461,6 +1614,8 @@ product_id,product_name,category,price,stock_qty
 1679,Product_1678,C,80,79
 1681,Product_1680,A,85,81
 1682,Product_1681,B,87.5,82
+1683,Product_1682,C,0,83
+1684,Product_1683,D,0,84
 1685,Product_1684,A,95,85
 1686,Product_1685,B,97.5,86
 1687,Product_1686,C,100,87
@@ -1477,6 +1632,7 @@ product_id,product_name,category,price,stock_qty
 1698,Product_1697,B,127.5,98
 1699,Product_1698,C,130,99
 1700,Product_1699,D,132.5,100
+1701,Product_1700,A,0,1
 1702,Product_1701,B,12.5,2
 1704,Product_1703,D,17.5,4
 1705,Product_1704,A,20,5
@@ -1486,11 +1642,13 @@ product_id,product_name,category,price,stock_qty
 1709,Product_1708,A,30,9
 1710,Product_1709,B,32.5,10
 1711,Product_1710,C,35,11
+1712,Product_1711,D,0,12
 1713,Product_1712,A,40,13
 1714,Product_1713,B,42.5,14
 1715,Product_1714,C,45,15
 1716,Product_1715,D,47.5,16
 1717,Product_1716,A,50,17
+1718,Product_1717,B,0,18
 1719,Product_1718,C,55,19
 1720,Product_1719,D,57.5,20
 1721,Product_1720,A,60,21
@@ -1506,11 +1664,13 @@ product_id,product_name,category,price,stock_qty
 1732,Product_1731,D,87.5,32
 1733,Product_1732,A,90,33
 1734,Product_1733,B,92.5,34
+1735,Product_1734,C,0,35
 1736,Product_1735,D,97.5,36
 1737,Product_1736,A,100,37
 1738,Product_1737,B,102.5,38
 1739,Product_1738,C,105,39
 1740,Product_1739,D,107.5,40
+1741,Product_1740,A,0,41
 1742,Product_1741,B,112.5,42
 1743,Product_1742,C,115,43
 1744,Product_1743,D,117.5,44
@@ -1520,6 +1680,7 @@ product_id,product_name,category,price,stock_qty
 1748,Product_1747,D,127.5,48
 1750,Product_1749,B,132.5,50
 1751,Product_1750,C,10,51
+1752,Product_1751,D,0,52
 1753,Product_1752,A,15,53
 1754,Product_1753,B,17.5,54
 1755,Product_1754,C,20,55
@@ -1536,6 +1697,8 @@ product_id,product_name,category,price,stock_qty
 1766,Product_1765,B,47.5,66
 1767,Product_1766,C,50,67
 1768,Product_1767,D,52.5,68
+1769,Product_1768,A,0,69
+1770,Product_1769,B,0,70
 1771,Product_1770,C,60,71
 1773,Product_1772,A,65,73
 1774,Product_1773,B,67.5,74
@@ -1550,6 +1713,7 @@ product_id,product_name,category,price,stock_qty
 1783,Product_1782,C,90,83
 1784,Product_1783,D,92.5,84
 1785,Product_1784,A,95,85
+1786,Product_1785,B,0,86
 1787,Product_1786,C,100,87
 1788,Product_1787,D,102.5,88
 1789,Product_1788,A,105,89
@@ -1561,9 +1725,11 @@ product_id,product_name,category,price,stock_qty
 1796,Product_1795,D,122.5,96
 1797,Product_1796,A,125,97
 1798,Product_1797,B,127.5,98
+1799,Product_1798,C,0,99
 1800,Product_1799,D,132.5,100
 1801,Product_1800,A,10,1
 1802,Product_1801,B,12.5,2
+1803,Product_1802,C,0,3
 1804,Product_1803,D,17.5,4
 1805,Product_1804,A,20,5
 1806,Product_1805,B,22.5,6
@@ -1579,6 +1745,7 @@ product_id,product_name,category,price,stock_qty
 1816,Product_1815,D,47.5,16
 1817,Product_1816,A,50,17
 1819,Product_1818,C,55,19
+1820,Product_1819,D,0,20
 1821,Product_1820,A,60,21
 1822,Product_1821,B,62.5,22
 1823,Product_1822,C,65,23
@@ -1586,6 +1753,7 @@ product_id,product_name,category,price,stock_qty
 1825,Product_1824,A,70,25
 1826,Product_1825,B,72.5,26
 1827,Product_1826,C,75,27
+1828,Product_1827,D,0,28
 1829,Product_1828,A,80,29
 1830,Product_1829,B,82.5,30
 1831,Product_1830,C,85,31
@@ -1594,6 +1762,7 @@ product_id,product_name,category,price,stock_qty
 1834,Product_1833,B,92.5,34
 1835,Product_1834,C,95,35
 1836,Product_1835,D,97.5,36
+1837,Product_1836,A,0,37
 1838,Product_1837,B,102.5,38
 1839,Product_1838,C,105,39
 1840,Product_1839,D,107.5,40
@@ -1609,8 +1778,10 @@ product_id,product_name,category,price,stock_qty
 1851,Product_1850,C,10,51
 1852,Product_1851,D,12.5,52
 1853,Product_1852,A,15,53
+1854,Product_1853,B,0,54
 1855,Product_1854,C,20,55
 1856,Product_1855,D,22.5,56
+1857,Product_1856,A,0,57
 1858,Product_1857,B,27.5,58
 1859,Product_1858,C,30,59
 1860,Product_1859,D,32.5,60
@@ -1623,6 +1794,7 @@ product_id,product_name,category,price,stock_qty
 1868,Product_1867,D,52.5,68
 1869,Product_1868,A,55,69
 1870,Product_1869,B,57.5,70
+1871,Product_1870,C,0,71
 1872,Product_1871,D,62.5,72
 1873,Product_1872,A,65,73
 1874,Product_1873,B,67.5,74
@@ -1637,6 +1809,8 @@ product_id,product_name,category,price,stock_qty
 1883,Product_1882,C,90,83
 1884,Product_1883,D,92.5,84
 1885,Product_1884,A,95,85
+1886,Product_1885,B,0,86
+1888,Product_1887,D,0,88
 1889,Product_1888,A,105,89
 1890,Product_1889,B,107.5,90
 1891,Product_1890,C,110,91
@@ -1653,6 +1827,7 @@ product_id,product_name,category,price,stock_qty
 1902,Product_1901,B,12.5,2
 1903,Product_1902,C,15,3
 1904,Product_1903,D,17.5,4
+1905,Product_1904,A,0,5
 1906,Product_1905,B,22.5,6
 1907,Product_1906,C,25,7
 1908,Product_1907,D,27.5,8
@@ -1661,12 +1836,14 @@ product_id,product_name,category,price,stock_qty
 1912,Product_1911,D,37.5,12
 1913,Product_1912,A,40,13
 1914,Product_1913,B,42.5,14
+1915,Product_1914,C,0,15
 1916,Product_1915,D,47.5,16
 1917,Product_1916,A,50,17
 1918,Product_1917,B,52.5,18
 1919,Product_1918,C,55,19
 1920,Product_1919,D,57.5,20
 1921,Product_1920,A,60,21
+1922,Product_1921,B,0,22
 1923,Product_1922,C,65,23
 1924,Product_1923,D,67.5,24
 1925,Product_1924,A,70,25
@@ -1682,10 +1859,12 @@ product_id,product_name,category,price,stock_qty
 1936,Product_1935,D,97.5,36
 1937,Product_1936,A,100,37
 1938,Product_1937,B,102.5,38
+1939,Product_1938,C,0,39
 1940,Product_1939,D,107.5,40
 1941,Product_1940,A,110,41
 1942,Product_1941,B,112.5,42
 1943,Product_1942,C,115,43
+1944,Product_1943,D,0,44
 1945,Product_1944,A,120,45
 1946,Product_1945,B,122.5,46
 1947,Product_1946,C,125,47
@@ -1697,6 +1876,7 @@ product_id,product_name,category,price,stock_qty
 1953,Product_1952,A,15,53
 1954,Product_1953,B,17.5,54
 1955,Product_1954,C,20,55
+1956,Product_1955,D,0,56
 1957,Product_1956,A,25,57
 1958,Product_1957,B,27.5,58
 1959,Product_1958,C,30,59
@@ -1713,6 +1893,7 @@ product_id,product_name,category,price,stock_qty
 1970,Product_1969,B,57.5,70
 1971,Product_1970,C,60,71
 1972,Product_1971,D,62.5,72
+1973,Product_1972,A,0,73
 1974,Product_1973,B,67.5,74
 1975,Product_1974,C,70,75
 1976,Product_1975,D,72.5,76
@@ -1728,6 +1909,7 @@ product_id,product_name,category,price,stock_qty
 1987,Product_1986,C,100,87
 1988,Product_1987,D,102.5,88
 1989,Product_1988,A,105,89
+1990,Product_1989,B,0,90
 1991,Product_1990,C,110,91
 1992,Product_1991,D,112.5,92
 1993,Product_1992,A,115,93
@@ -1739,10 +1921,12 @@ product_id,product_name,category,price,stock_qty
 1999,Product_1998,C,130,99
 2000,Product_1999,D,132.5,100
 2001,Product_2000,A,10,1
+2002,Product_2001,B,0,2
 2003,Product_2002,C,15,3
 2004,Product_2003,D,17.5,4
 2005,Product_2004,A,20,5
 2006,Product_2005,B,22.5,6
+2007,Product_2006,C,0,7
 2008,Product_2007,D,27.5,8
 2009,Product_2008,A,30,9
 2010,Product_2009,B,32.5,10
@@ -1759,11 +1943,13 @@ product_id,product_name,category,price,stock_qty
 2021,Product_2020,A,60,21
 2022,Product_2021,B,62.5,22
 2023,Product_2022,C,65,23
+2024,Product_2023,D,0,24
 2026,Product_2025,B,72.5,26
 2027,Product_2026,C,75,27
 2028,Product_2027,D,77.5,28
 2029,Product_2028,A,80,29
 2030,Product_2029,B,82.5,30
+2031,Product_2030,C,0,31
 2032,Product_2031,D,87.5,32
 2033,Product_2032,A,90,33
 2034,Product_2033,B,92.5,34
@@ -1773,6 +1959,7 @@ product_id,product_name,category,price,stock_qty
 2038,Product_2037,B,102.5,38
 2039,Product_2038,C,105,39
 2040,Product_2039,D,107.5,40
+2041,Product_2040,A,0,41
 2042,Product_2041,B,112.5,42
 2043,Product_2042,C,115,43
 2044,Product_2043,D,117.5,44
@@ -1788,7 +1975,9 @@ product_id,product_name,category,price,stock_qty
 2055,Product_2054,C,20,55
 2056,Product_2055,D,22.5,56
 2057,Product_2056,A,25,57
+2058,Product_2057,B,0,58
 2059,Product_2058,C,30,59
+2060,Product_2059,D,0,60
 2061,Product_2060,A,35,61
 2062,Product_2061,B,37.5,62
 2063,Product_2062,C,40,63
@@ -1802,6 +1991,7 @@ product_id,product_name,category,price,stock_qty
 2072,Product_2071,D,62.5,72
 2073,Product_2072,A,65,73
 2074,Product_2073,B,67.5,74
+2075,Product_2074,C,0,75
 2076,Product_2075,D,72.5,76
 2077,Product_2076,A,75,77
 2078,Product_2077,B,77.5,78
@@ -1815,8 +2005,10 @@ product_id,product_name,category,price,stock_qty
 2086,Product_2085,B,97.5,86
 2087,Product_2086,C,100,87
 2088,Product_2087,D,102.5,88
+2089,Product_2088,A,0,89
 2090,Product_2089,B,107.5,90
 2091,Product_2090,C,110,91
+2092,Product_2091,D,0,92
 2093,Product_2092,A,115,93
 2095,Product_2094,C,120,95
 2096,Product_2095,D,122.5,96
@@ -1832,6 +2024,7 @@ product_id,product_name,category,price,stock_qty
 2106,Product_2105,B,22.5,6
 2107,Product_2106,C,25,7
 2108,Product_2107,D,27.5,8
+2109,Product_2108,A,0,9
 2110,Product_2109,B,32.5,10
 2111,Product_2110,C,35,11
 2112,Product_2111,D,37.5,12
@@ -1839,6 +2032,7 @@ product_id,product_name,category,price,stock_qty
 2114,Product_2113,B,42.5,14
 2115,Product_2114,C,45,15
 2116,Product_2115,D,47.5,16
+2118,Product_2117,B,0,18
 2119,Product_2118,C,55,19
 2120,Product_2119,D,57.5,20
 2121,Product_2120,A,60,21
@@ -1846,6 +2040,7 @@ product_id,product_name,category,price,stock_qty
 2123,Product_2122,C,65,23
 2124,Product_2123,D,67.5,24
 2125,Product_2124,A,70,25
+2126,Product_2125,B,0,26
 2127,Product_2126,C,75,27
 2128,Product_2127,D,77.5,28
 2129,Product_2128,A,80,29
@@ -1861,9 +2056,11 @@ product_id,product_name,category,price,stock_qty
 2139,Product_2138,C,105,39
 2141,Product_2140,A,110,41
 2142,Product_2141,B,112.5,42
+2143,Product_2142,C,0,43
 2144,Product_2143,D,117.5,44
 2145,Product_2144,A,120,45
 2146,Product_2145,B,122.5,46
+2147,Product_2146,C,0,47
 2148,Product_2147,D,127.5,48
 2149,Product_2148,A,130,49
 2150,Product_2149,B,132.5,50
@@ -1876,6 +2073,7 @@ product_id,product_name,category,price,stock_qty
 2157,Product_2156,A,25,57
 2158,Product_2157,B,27.5,58
 2159,Product_2158,C,30,59
+2160,Product_2159,D,0,60
 2161,Product_2160,A,35,61
 2162,Product_2161,B,37.5,62
 2164,Product_2163,D,42.5,64
@@ -1890,6 +2088,8 @@ product_id,product_name,category,price,stock_qty
 2173,Product_2172,A,65,73
 2174,Product_2173,B,67.5,74
 2175,Product_2174,C,70,75
+2176,Product_2175,D,0,76
+2177,Product_2176,A,0,77
 2178,Product_2177,B,77.5,78
 2179,Product_2178,C,80,79
 2180,Product_2179,D,82.5,80
@@ -1905,6 +2105,7 @@ product_id,product_name,category,price,stock_qty
 2191,Product_2190,C,110,91
 2192,Product_2191,D,112.5,92
 2193,Product_2192,A,115,93
+2194,Product_2193,B,0,94
 2195,Product_2194,C,120,95
 2196,Product_2195,D,122.5,96
 2197,Product_2196,A,125,97
@@ -1915,10 +2116,12 @@ product_id,product_name,category,price,stock_qty
 2202,Product_2201,B,12.5,2
 2203,Product_2202,C,15,3
 2204,Product_2203,D,17.5,4
+2205,Product_2204,A,0,5
 2206,Product_2205,B,22.5,6
 2207,Product_2206,C,25,7
 2208,Product_2207,D,27.5,8
 2210,Product_2209,B,32.5,10
+2211,Product_2210,C,0,11
 2212,Product_2211,D,37.5,12
 2213,Product_2212,A,40,13
 2214,Product_2213,B,42.5,14
@@ -1935,10 +2138,12 @@ product_id,product_name,category,price,stock_qty
 2225,Product_2224,A,70,25
 2226,Product_2225,B,72.5,26
 2227,Product_2226,C,75,27
+2228,Product_2227,D,0,28
 2229,Product_2228,A,80,29
 2230,Product_2229,B,82.5,30
 2231,Product_2230,C,85,31
 2233,Product_2232,A,90,33
+2234,Product_2233,B,0,34
 2235,Product_2234,C,95,35
 2236,Product_2235,D,97.5,36
 2237,Product_2236,A,100,37
@@ -1949,6 +2154,7 @@ product_id,product_name,category,price,stock_qty
 2242,Product_2241,B,112.5,42
 2243,Product_2242,C,115,43
 2244,Product_2243,D,117.5,44
+2245,Product_2244,A,0,45
 2246,Product_2245,B,122.5,46
 2247,Product_2246,C,125,47
 2248,Product_2247,D,127.5,48
@@ -1964,6 +2170,8 @@ product_id,product_name,category,price,stock_qty
 2259,Product_2258,C,30,59
 2260,Product_2259,D,32.5,60
 2261,Product_2260,A,35,61
+2262,Product_2261,B,0,62
+2263,Product_2262,C,0,63
 2264,Product_2263,D,42.5,64
 2265,Product_2264,A,45,65
 2266,Product_2265,B,47.5,66
@@ -1978,6 +2186,7 @@ product_id,product_name,category,price,stock_qty
 2275,Product_2274,C,70,75
 2276,Product_2275,D,72.5,76
 2277,Product_2276,A,75,77
+2279,Product_2278,C,0,79
 2280,Product_2279,D,82.5,80
 2281,Product_2280,A,85,81
 2282,Product_2281,B,87.5,82
@@ -1990,9 +2199,11 @@ product_id,product_name,category,price,stock_qty
 2289,Product_2288,A,105,89
 2290,Product_2289,B,107.5,90
 2291,Product_2290,C,110,91
+2292,Product_2291,D,0,92
 2293,Product_2292,A,115,93
 2294,Product_2293,B,117.5,94
 2295,Product_2294,C,120,95
+2296,Product_2295,D,0,96
 2297,Product_2296,A,125,97
 2298,Product_2297,B,127.5,98
 2299,Product_2298,C,130,99
@@ -2008,6 +2219,7 @@ product_id,product_name,category,price,stock_qty
 2310,Product_2309,B,32.5,10
 2311,Product_2310,C,35,11
 2312,Product_2311,D,37.5,12
+2313,Product_2312,A,0,13
 2314,Product_2313,B,42.5,14
 2315,Product_2314,C,45,15
 2316,Product_2315,D,47.5,16
@@ -2015,6 +2227,7 @@ product_id,product_name,category,price,stock_qty
 2318,Product_2317,B,52.5,18
 2319,Product_2318,C,55,19
 2320,Product_2319,D,57.5,20
+2321,Product_2320,A,0,21
 2322,Product_2321,B,62.5,22
 2323,Product_2322,C,65,23
 2325,Product_2324,A,70,25
@@ -2022,6 +2235,7 @@ product_id,product_name,category,price,stock_qty
 2327,Product_2326,C,75,27
 2328,Product_2327,D,77.5,28
 2329,Product_2328,A,80,29
+2330,Product_2329,B,0,30
 2331,Product_2330,C,85,31
 2332,Product_2331,D,87.5,32
 2333,Product_2332,A,90,33
@@ -2038,8 +2252,10 @@ product_id,product_name,category,price,stock_qty
 2344,Product_2343,D,117.5,44
 2345,Product_2344,A,120,45
 2346,Product_2345,B,122.5,46
+2347,Product_2346,C,0,47
 2348,Product_2347,D,127.5,48
 2349,Product_2348,A,130,49
+2350,Product_2349,B,0,50
 2351,Product_2350,C,10,51
 2352,Product_2351,D,12.5,52
 2353,Product_2352,A,15,53
@@ -2053,6 +2269,7 @@ product_id,product_name,category,price,stock_qty
 2361,Product_2360,A,35,61
 2362,Product_2361,B,37.5,62
 2363,Product_2362,C,40,63
+2364,Product_2363,D,0,64
 2365,Product_2364,A,45,65
 2366,Product_2365,B,47.5,66
 2367,Product_2366,C,50,67
@@ -2066,7 +2283,9 @@ product_id,product_name,category,price,stock_qty
 2376,Product_2375,D,72.5,76
 2377,Product_2376,A,75,77
 2378,Product_2377,B,77.5,78
+2379,Product_2378,C,0,79
 2380,Product_2379,D,82.5,80
+2381,Product_2380,A,0,81
 2382,Product_2381,B,87.5,82
 2383,Product_2382,C,90,83
 2384,Product_2383,D,92.5,84
@@ -2082,6 +2301,7 @@ product_id,product_name,category,price,stock_qty
 2395,Product_2394,C,120,95
 2396,Product_2395,D,122.5,96
 2397,Product_2396,A,125,97
+2398,Product_2397,B,0,98
 2399,Product_2398,C,130,99
 2400,Product_2399,D,132.5,100
 2401,Product_2400,A,10,1
@@ -2091,12 +2311,14 @@ product_id,product_name,category,price,stock_qty
 2405,Product_2404,A,20,5
 2406,Product_2405,B,22.5,6
 2407,Product_2406,C,25,7
+2408,Product_2407,D,0,8
 2409,Product_2408,A,30,9
 2410,Product_2409,B,32.5,10
 2411,Product_2410,C,35,11
 2412,Product_2411,D,37.5,12
 2413,Product_2412,A,40,13
 2414,Product_2413,B,42.5,14
+2415,Product_2414,C,0,15
 2417,Product_2416,A,50,17
 2418,Product_2417,B,52.5,18
 2419,Product_2418,C,55,19
@@ -2112,10 +2334,12 @@ product_id,product_name,category,price,stock_qty
 2429,Product_2428,A,80,29
 2430,Product_2429,B,82.5,30
 2431,Product_2430,C,85,31
+2432,Product_2431,D,0,32
 2433,Product_2432,A,90,33
 2434,Product_2433,B,92.5,34
 2435,Product_2434,C,95,35
 2436,Product_2435,D,97.5,36
+2437,Product_2436,A,0,37
 2438,Product_2437,B,102.5,38
 2440,Product_2439,D,107.5,40
 2441,Product_2440,A,110,41
@@ -2126,6 +2350,7 @@ product_id,product_name,category,price,stock_qty
 2446,Product_2445,B,122.5,46
 2447,Product_2446,C,125,47
 2448,Product_2447,D,127.5,48
+2449,Product_2448,A,0,49
 2450,Product_2449,B,132.5,50
 2451,Product_2450,C,10,51
 2452,Product_2451,D,12.5,52
@@ -2141,6 +2366,7 @@ product_id,product_name,category,price,stock_qty
 2463,Product_2462,C,40,63
 2464,Product_2463,D,42.5,64
 2465,Product_2464,A,45,65
+2466,Product_2465,B,0,66
 2467,Product_2466,C,50,67
 2468,Product_2467,D,52.5,68
 2469,Product_2468,A,55,69
@@ -2157,6 +2383,7 @@ product_id,product_name,category,price,stock_qty
 2480,Product_2479,D,82.5,80
 2481,Product_2480,A,85,81
 2482,Product_2481,B,87.5,82
+2483,Product_2482,C,0,83
 2484,Product_2483,D,92.5,84
 2486,Product_2485,B,97.5,86
 2487,Product_2486,C,100,87
@@ -2167,10 +2394,12 @@ product_id,product_name,category,price,stock_qty
 2492,Product_2491,D,112.5,92
 2493,Product_2492,A,115,93
 2494,Product_2493,B,117.5,94
+2495,Product_2494,C,0,95
 2496,Product_2495,D,122.5,96
 2497,Product_2496,A,125,97
 2498,Product_2497,B,127.5,98
 2499,Product_2498,C,130,99
+2500,Product_2499,D,0,100
 2501,Product_2500,A,10,1
 2502,Product_2501,B,12.5,2
 2503,Product_2502,C,15,3
@@ -2186,12 +2415,14 @@ product_id,product_name,category,price,stock_qty
 2514,Product_2513,B,42.5,14
 2515,Product_2514,C,45,15
 2516,Product_2515,D,47.5,16
+2517,Product_2516,A,0,17
 2518,Product_2517,B,52.5,18
 2519,Product_2518,C,55,19
 2520,Product_2519,D,57.5,20
 2521,Product_2520,A,60,21
 2522,Product_2521,B,62.5,22
 2523,Product_2522,C,65,23
+2524,Product_2523,D,0,24
 2525,Product_2524,A,70,25
 2526,Product_2525,B,72.5,26
 2527,Product_2526,C,75,27
@@ -2200,6 +2431,7 @@ product_id,product_name,category,price,stock_qty
 2530,Product_2529,B,82.5,30
 2532,Product_2531,D,87.5,32
 2533,Product_2532,A,90,33
+2534,Product_2533,B,0,34
 2535,Product_2534,C,95,35
 2536,Product_2535,D,97.5,36
 2537,Product_2536,A,100,37
@@ -2216,7 +2448,9 @@ product_id,product_name,category,price,stock_qty
 2548,Product_2547,D,127.5,48
 2549,Product_2548,A,130,49
 2550,Product_2549,B,132.5,50
+2551,Product_2550,C,0,51
 2552,Product_2551,D,12.5,52
+2553,Product_2552,A,0,53
 2555,Product_2554,C,20,55
 2556,Product_2555,D,22.5,56
 2557,Product_2556,A,25,57
@@ -2230,6 +2464,7 @@ product_id,product_name,category,price,stock_qty
 2565,Product_2564,A,45,65
 2566,Product_2565,B,47.5,66
 2567,Product_2566,C,50,67
+2568,Product_2567,D,0,68
 2569,Product_2568,A,55,69
 2570,Product_2569,B,57.5,70
 2571,Product_2570,C,60,71
@@ -2242,8 +2477,10 @@ product_id,product_name,category,price,stock_qty
 2579,Product_2578,C,80,79
 2580,Product_2579,D,82.5,80
 2581,Product_2580,A,85,81
+2582,Product_2581,B,0,82
 2583,Product_2582,C,90,83
 2584,Product_2583,D,92.5,84
+2585,Product_2584,A,0,85
 2586,Product_2585,B,97.5,86
 2587,Product_2586,C,100,87
 2588,Product_2587,D,102.5,88
@@ -2259,6 +2496,7 @@ product_id,product_name,category,price,stock_qty
 2598,Product_2597,B,127.5,98
 2599,Product_2598,C,130,99
 2601,Product_2600,A,10,1
+2602,Product_2601,B,0,2
 2603,Product_2602,C,15,3
 2604,Product_2603,D,17.5,4
 2605,Product_2604,A,20,5
@@ -2267,6 +2505,7 @@ product_id,product_name,category,price,stock_qty
 2608,Product_2607,D,27.5,8
 2609,Product_2608,A,30,9
 2610,Product_2609,B,32.5,10
+2611,Product_2610,C,0,11
 2612,Product_2611,D,37.5,12
 2613,Product_2612,A,40,13
 2614,Product_2613,B,42.5,14
@@ -2274,6 +2513,7 @@ product_id,product_name,category,price,stock_qty
 2616,Product_2615,D,47.5,16
 2617,Product_2616,A,50,17
 2618,Product_2617,B,52.5,18
+2619,Product_2618,C,0,19
 2620,Product_2619,D,57.5,20
 2621,Product_2620,A,60,21
 2622,Product_2621,B,62.5,22
@@ -2289,9 +2529,11 @@ product_id,product_name,category,price,stock_qty
 2633,Product_2632,A,90,33
 2634,Product_2633,B,92.5,34
 2635,Product_2634,C,95,35
+2636,Product_2635,D,0,36
 2637,Product_2636,A,100,37
 2638,Product_2637,B,102.5,38
 2639,Product_2638,C,105,39
+2640,Product_2639,D,0,40
 2641,Product_2640,A,110,41
 2642,Product_2641,B,112.5,42
 2643,Product_2642,C,115,43
@@ -2303,6 +2545,7 @@ product_id,product_name,category,price,stock_qty
 2650,Product_2649,B,132.5,50
 2651,Product_2650,C,10,51
 2652,Product_2651,D,12.5,52
+2653,Product_2652,A,0,53
 2654,Product_2653,B,17.5,54
 2655,Product_2654,C,20,55
 2656,Product_2655,D,22.5,56
@@ -2318,6 +2561,8 @@ product_id,product_name,category,price,stock_qty
 2666,Product_2665,B,47.5,66
 2667,Product_2666,C,50,67
 2668,Product_2667,D,52.5,68
+2669,Product_2668,A,0,69
+2670,Product_2669,B,0,70
 2671,Product_2670,C,60,71
 2672,Product_2671,D,62.5,72
 2673,Product_2672,A,65,73
@@ -2334,6 +2579,7 @@ product_id,product_name,category,price,stock_qty
 2684,Product_2683,D,92.5,84
 2685,Product_2684,A,95,85
 2686,Product_2685,B,97.5,86
+2687,Product_2686,C,0,87
 2688,Product_2687,D,102.5,88
 2689,Product_2688,A,105,89
 2690,Product_2689,B,107.5,90
@@ -2343,11 +2589,13 @@ product_id,product_name,category,price,stock_qty
 2695,Product_2694,C,120,95
 2696,Product_2695,D,122.5,96
 2697,Product_2696,A,125,97
+2698,Product_2697,B,0,98
 2699,Product_2698,C,130,99
 2700,Product_2699,D,132.5,100
 2701,Product_2700,A,10,1
 2702,Product_2701,B,12.5,2
 2703,Product_2702,C,15,3
+2704,Product_2703,D,0,4
 2705,Product_2704,A,20,5
 2706,Product_2705,B,22.5,6
 2707,Product_2706,C,25,7
@@ -2363,11 +2611,13 @@ product_id,product_name,category,price,stock_qty
 2718,Product_2717,B,52.5,18
 2719,Product_2718,C,55,19
 2720,Product_2719,D,57.5,20
+2721,Product_2720,A,0,21
 2722,Product_2721,B,62.5,22
 2723,Product_2722,C,65,23
 2724,Product_2723,D,67.5,24
 2725,Product_2724,A,70,25
 2726,Product_2725,B,72.5,26
+2727,Product_2726,C,0,27
 2728,Product_2727,D,77.5,28
 2729,Product_2728,A,80,29
 2730,Product_2729,B,82.5,30
@@ -2378,6 +2628,7 @@ product_id,product_name,category,price,stock_qty
 2735,Product_2734,C,95,35
 2736,Product_2735,D,97.5,36
 2737,Product_2736,A,100,37
+2738,Product_2737,B,0,38
 2739,Product_2738,C,105,39
 2740,Product_2739,D,107.5,40
 2741,Product_2740,A,110,41
@@ -2394,6 +2645,8 @@ product_id,product_name,category,price,stock_qty
 2752,Product_2751,D,12.5,52
 2753,Product_2752,A,15,53
 2754,Product_2753,B,17.5,54
+2755,Product_2754,C,0,55
+2756,Product_2755,D,0,56
 2757,Product_2756,A,25,57
 2758,Product_2757,B,27.5,58
 2759,Product_2758,C,30,59
@@ -2408,6 +2661,7 @@ product_id,product_name,category,price,stock_qty
 2769,Product_2768,A,55,69
 2770,Product_2769,B,57.5,70
 2771,Product_2770,C,60,71
+2772,Product_2771,D,0,72
 2773,Product_2772,A,65,73
 2774,Product_2773,B,67.5,74
 2775,Product_2774,C,70,75
@@ -2419,9 +2673,11 @@ product_id,product_name,category,price,stock_qty
 2781,Product_2780,A,85,81
 2782,Product_2781,B,87.5,82
 2783,Product_2782,C,90,83
+2785,Product_2784,A,0,85
 2786,Product_2785,B,97.5,86
 2787,Product_2786,C,100,87
 2788,Product_2787,D,102.5,88
+2789,Product_2788,A,0,89
 2790,Product_2789,B,107.5,90
 2791,Product_2790,C,110,91
 2792,Product_2791,D,112.5,92
@@ -2438,12 +2694,14 @@ product_id,product_name,category,price,stock_qty
 2803,Product_2802,C,15,3
 2804,Product_2803,D,17.5,4
 2805,Product_2804,A,20,5
+2806,Product_2805,B,0,6
 2808,Product_2807,D,27.5,8
 2809,Product_2808,A,30,9
 2810,Product_2809,B,32.5,10
 2811,Product_2810,C,35,11
 2812,Product_2811,D,37.5,12
 2813,Product_2812,A,40,13
+2814,Product_2813,B,0,14
 2815,Product_2814,C,45,15
 2816,Product_2815,D,47.5,16
 2817,Product_2816,A,50,17
@@ -2452,6 +2710,7 @@ product_id,product_name,category,price,stock_qty
 2820,Product_2819,D,57.5,20
 2821,Product_2820,A,60,21
 2822,Product_2821,B,62.5,22
+2823,Product_2822,C,0,23
 2824,Product_2823,D,67.5,24
 2825,Product_2824,A,70,25
 2826,Product_2825,B,72.5,26
@@ -2467,8 +2726,10 @@ product_id,product_name,category,price,stock_qty
 2837,Product_2836,A,100,37
 2838,Product_2837,B,102.5,38
 2839,Product_2838,C,105,39
+2840,Product_2839,D,0,40
 2841,Product_2840,A,110,41
 2842,Product_2841,B,112.5,42
+2843,Product_2842,C,0,43
 2844,Product_2843,D,117.5,44
 2845,Product_2844,A,120,45
 2846,Product_2845,B,122.5,46
@@ -2481,6 +2742,7 @@ product_id,product_name,category,price,stock_qty
 2854,Product_2853,B,17.5,54
 2855,Product_2854,C,20,55
 2856,Product_2855,D,22.5,56
+2857,Product_2856,A,0,57
 2858,Product_2857,B,27.5,58
 2859,Product_2858,C,30,59
 2860,Product_2859,D,32.5,60
@@ -2495,7 +2757,9 @@ product_id,product_name,category,price,stock_qty
 2869,Product_2868,A,55,69
 2870,Product_2869,B,57.5,70
 2871,Product_2870,C,60,71
+2872,Product_2871,D,0,72
 2873,Product_2872,A,65,73
+2874,Product_2873,B,0,74
 2875,Product_2874,C,70,75
 2877,Product_2876,A,75,77
 2878,Product_2877,B,77.5,78
@@ -2511,6 +2775,7 @@ product_id,product_name,category,price,stock_qty
 2888,Product_2887,D,102.5,88
 2889,Product_2888,A,105,89
 2890,Product_2889,B,107.5,90
+2891,Product_2890,C,0,91
 2892,Product_2891,D,112.5,92
 2893,Product_2892,A,115,93
 2894,Product_2893,B,117.5,94
@@ -2519,12 +2784,14 @@ product_id,product_name,category,price,stock_qty
 2897,Product_2896,A,125,97
 2898,Product_2897,B,127.5,98
 2900,Product_2899,D,132.5,100
+2901,Product_2900,A,0,1
 2902,Product_2901,B,12.5,2
 2903,Product_2902,C,15,3
 2904,Product_2903,D,17.5,4
 2905,Product_2904,A,20,5
 2906,Product_2905,B,22.5,6
 2907,Product_2906,C,25,7
+2908,Product_2907,D,0,8
 2909,Product_2908,A,30,9
 2910,Product_2909,B,32.5,10
 2911,Product_2910,C,35,11
@@ -2540,10 +2807,12 @@ product_id,product_name,category,price,stock_qty
 2921,Product_2920,A,60,21
 2923,Product_2922,C,65,23
 2924,Product_2923,D,67.5,24
+2925,Product_2924,A,0,25
 2926,Product_2925,B,72.5,26
 2927,Product_2926,C,75,27
 2928,Product_2927,D,77.5,28
 2929,Product_2928,A,80,29
+2930,Product_2929,B,0,30
 2931,Product_2930,C,85,31
 2932,Product_2931,D,87.5,32
 2933,Product_2932,A,90,33
@@ -2555,6 +2824,7 @@ product_id,product_name,category,price,stock_qty
 2939,Product_2938,C,105,39
 2940,Product_2939,D,107.5,40
 2941,Product_2940,A,110,41
+2942,Product_2941,B,0,42
 2943,Product_2942,C,115,43
 2944,Product_2943,D,117.5,44
 2946,Product_2945,B,122.5,46
@@ -2570,6 +2840,7 @@ product_id,product_name,category,price,stock_qty
 2956,Product_2955,D,22.5,56
 2957,Product_2956,A,25,57
 2958,Product_2957,B,27.5,58
+2959,Product_2958,C,0,59
 2960,Product_2959,D,32.5,60
 2961,Product_2960,A,35,61
 2962,Product_2961,B,37.5,62
@@ -2585,6 +2856,7 @@ product_id,product_name,category,price,stock_qty
 2973,Product_2972,A,65,73
 2974,Product_2973,B,67.5,74
 2975,Product_2974,C,70,75
+2976,Product_2975,D,0,76
 2977,Product_2976,A,75,77
 2978,Product_2977,B,77.5,78
 2979,Product_2978,C,80,79
@@ -2596,9 +2868,11 @@ product_id,product_name,category,price,stock_qty
 2985,Product_2984,A,95,85
 2986,Product_2985,B,97.5,86
 2987,Product_2986,C,100,87
+2988,Product_2987,D,0,88
 2989,Product_2988,A,105,89
 2990,Product_2989,B,107.5,90
 2992,Product_2991,D,112.5,92
+2993,Product_2992,A,0,93
 2994,Product_2993,B,117.5,94
 2995,Product_2994,C,120,95
 2996,Product_2995,D,122.5,96
