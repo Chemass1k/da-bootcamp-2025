@@ -16,3 +16,8 @@ Task 3:
 
 Calculated sum of sales from West using Define Name function.
 ![alt text](DefineName_excel.png)
+
+Task 4:
+
+Created dynamic line chart
+![alt text](Dynamic-chart.png)
