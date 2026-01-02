@@ -351,3 +351,27 @@ SELECT w2.id
 FROM Weather w1
 JOIN Weather w2 ON w2.recordDate = w1.recordDate + INTERVAL '1 day'
 WHERE w2.temperature > w1.temperature;
+
+---------#16 mini-report
+DROP TABLE IF EXISTS sales;
+
+CREATE TABLE sales(
+    order_id    SERIAL PRIMARY KEY,
+    user_id     INT,
+    amount      NUMERIC(10,2),
+    order_date  DATE
+);
+
+INSERT INTO sales(user_id, amount, order_date)
+SELECT ceil(random()*200),
+       10 + random()*490,
+       CURRENT_DATE - (random()*365)::int
+FROM generate_series(1,1000);
+
+-- итоговый SELECT
+SELECT COUNT(*)               AS orders_cnt,
+       COUNT(DISTINCT user_id) AS users_cnt,
+       ROUND(AVG(amount),2)    AS aov,
+       ROUND(SUM(amount) FILTER (
+               WHERE order_date >= CURRENT_DATE - 7),2) AS total_last_7d
+FROM sales;
