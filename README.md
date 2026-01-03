@@ -25,4 +25,8 @@ using named range 'RevList'.
 
 Task 5:
 The most expensive region in the model: East (avg price 3849,6 CAD, share is 9%)
-![Dax Model](dax_model.png)
+![Dax Model](day2/Task%205/dax_model.png)
+
+Task 6:
+Created local Power-BI-Dashboard (map, line, slicer with Rooms filter).
+![Power-BI](day2/Task%206/powerbi.png)
