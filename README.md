@@ -30,3 +30,7 @@ The most expensive region in the model: East (avg price 3849,6 CAD, share is 9%)
 Task 6:
 Created local Power-BI-Dashboard (map, line, slicer with Rooms filter).
 ![Power-BI](day2/Task%206/powerbi.png)
+
+Task 7:
+Created advanced PivotTable with Timeline, Slicer and field Profit = 30%
+![Advanced Pivot](day2/Task%207/advanced_pivot.png)
